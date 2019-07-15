@@ -186,20 +186,37 @@
 // }
 
 
-let nomes=[
-    'rafael', 'ana', 'leo', 'gabriel'];
-let palavra=prompt('nome');
+// let nomes=[
+//     'rafael', 'ana', 'leo', 'gabriel'];
+// let palavra=prompt('nome');
 
-function buscarPalavra()
-{
-    for(i=0;i<3;i++)
-    {
-        if(nomes[i]==palavra){
-       return true;
-    } 
-} return false;
-}
+// function buscarPalavra()
+// {
+//     for(i=0;i<3;i++)
+//     {
+//         if(nomes[i]==palavra){
+//        return true;
+//     } 
+// } return false;
+// }
 // if(return==true){
 //     alert('sim');
 // }
 // else alert('nao');   
+
+// For(let a in b)
+// {
+//     Percorrer objetos
+//     Percorrer listas - somente indices
+// }
+// For(let a of b)
+// {
+//     Percorrer lista- somente elementos
+// }
+// document.querySelector("button")
+
+// let titulo = document.querySelector("h1")
+
+// titulo.onclick = function(){
+//     titulo.style.color="pink";
+// }
